@@ -1,0 +1,30 @@
+{
+  "name": "unit10hw",
+  "version": "1.0.0",
+  "description": "OOP HW",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikabeasley/TemplateEngine.git"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "Erika Beasley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikabeasley/TemplateEngine/issues"
+  },
+  "homepage": "https://github.com/erikabeasley/TemplateEngine#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "inquirer": "^7.3.3",
+    "jest": "^26.4.2",
+    "path": "^0.12.7",
+    "util": "^0.12.3"
+  }
+}
